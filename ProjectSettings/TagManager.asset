@@ -10,6 +10,10 @@ TagManager:
   - ur_tool
   - ur_link_root
   - ur_flange
+  - ur_robot_desired
+  - ur_robot_actual
+  - ur_link_base
+  - decal_circle
   layers:
   - Default
   - TransparentFX
@@ -19,8 +23,8 @@ TagManager:
   - UI
   - Virtual Env
   - PostProcessing
-  - 
-  - 
+  - GridPlacement
+  - UItest
   - 
   - 
   - 
